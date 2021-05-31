@@ -1,2 +1,2 @@
-# forest
-3d model of a full fledged forest scene
+# Forest
+3D Model of a full fledged forest scene
